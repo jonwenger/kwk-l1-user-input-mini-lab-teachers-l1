@@ -15,4 +15,4 @@ food=gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "You will be staying at #{stay}"
+puts "You will be staying at #{stay} for #{nights} and be eating #{food}"
